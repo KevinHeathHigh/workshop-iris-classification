@@ -2,7 +2,7 @@
 
 # iris-classification
 
-This is an example of a Datmo Model which uses iris dataset to classify between different flower types. This project tries nearest neighbor and naive bayes algorithms. 
+This is an example of a Datmo Model which uses iris dataset to classify between different flower types. This project tries nearest neighbor and naive bayes algorithms.  
 
 The Iris dataset was used in R.A. Fisher's classic 1936 paper and can also be found on the [UCI Machine Learning Repository][1] and is a classic hello world dataset and problem for machine learning. 
 
@@ -39,7 +39,7 @@ Next, you can create your own snapshot by using the command below.
 
 Congrats! You have created your first snapshot -- a combination of the latest source code, environment, files, configurations, and performance metrics. 
 
-For reference, here are few more quick details about what you can find in the repository.
+For reference, here are few more quick details about what you can find in the repository. and a [great resource](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342) for learning more about basic iris-dataset classification in Python
 
 Dockerfile: this is meant to keep track of your environment. For example, this Dockerfile ensures that our environment has all of the requirements needed to run our model. You can manage, edit, and create new enviroments with the [datmo env command](https://docs.datmo.com/commands/environment.html).  You can learn more about environments with Docker on our [Datmo docs page](https://docs.datmo.com/guides/creating-your-environment.html)
 
